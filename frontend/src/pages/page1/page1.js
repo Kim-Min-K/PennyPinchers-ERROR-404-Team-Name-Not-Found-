@@ -1,7 +1,7 @@
 function Page1() {
   return (
     <div>
-      <h1>Page1</h1>
+      <h1>Budgeting Tips</h1>
     </div>
   );
 }
